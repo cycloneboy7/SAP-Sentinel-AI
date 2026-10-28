@@ -79,11 +79,9 @@ The application combines Python-based risk analysis, SAP HANA Cloud data storage
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sap-sentinel-ai.git
+git clone https://github.com/cycloneboy7/sap-sentinel-ai.git
 cd sap-sentinel-ai
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Create a virtual environment
 
